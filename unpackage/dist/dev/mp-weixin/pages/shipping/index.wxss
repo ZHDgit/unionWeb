@@ -1,0 +1,7 @@
+.header {
+  color: #007AFF;
+}
+.header .text {
+    color: red;
+}
+
